@@ -12,7 +12,7 @@ Detalhes precisos sobre o clima em qualquer cidade. Digite o nome da cidade no c
 
 ## Capturas de Tela
 
-![Captura de Tela 1](captura_tela_1.png)
+![Captura de Tela 1](1691966896664.jpg)
 ![Captura de Tela 2](captura_tela_2.png)
 
 ## Como Usar
