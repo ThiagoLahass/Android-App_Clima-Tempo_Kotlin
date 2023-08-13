@@ -13,9 +13,10 @@ Detalhes precisos sobre o clima em qualquer cidade. Digite o nome da cidade no c
 ## Capturas de Tela
 
 <div style="display: flex; margin: 50px;">
-    <img src="1691966896664.jpg" alt="Captura de Tela 1" width="300">
-    <img src="1691966896675.jpg" alt="Captura de Tela 2" width="300">
+    <img src="ScreenShots/1691966896675.jpg" alt="Captura de Tela 1" width="300">
+    <img src="ScreenShots/1691966896664.jpg" alt="Captura de Tela 2" width="300">
 </div>
+
 ## Como Usar
 
-Faça o download e abra o projeto no Android Studio
+Faça o download e abra o projeto no Android Studio.
