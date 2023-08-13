@@ -1,6 +1,6 @@
 # Descubra o Clima - Seu App de Previsão do Tempo
 
-Bem-vindo ao Descubra o Clima, seu aplicativo confiável para fornecer informações detalhadas sobre as condições climáticas atuais. Este aplicativo foi projetado para oferecer uma visão instantânea e abrangente do clima em qualquer cidade do mundo. Com uma interface intuitiva e recursos poderosos, o Descubra o Clima é o seu guia para se manter atualizado sobre as condições meteorológicas.
+Detalhes precisos sobre o clima em qualquer cidade. Digite o nome da cidade no campo de busca e obtenha informações detalhadas sobre as condições climáticas atuais, incluindo a temperatura atual, mínima e máxima, umidade relativa e condições climáticas gerais. Complementando a experiência,é possível alternar entre temas claro e escuro.
 
 ## Principais Características
 
